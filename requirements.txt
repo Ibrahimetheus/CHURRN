@@ -1,5 +1,6 @@
- streamlit
- pandas 
- numpy 
- sklearn
- pickle
+streamlit
+pandas 
+numpy 
+pickle
+matplotlib
+scikit-learn
